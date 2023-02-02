@@ -1,4 +1,5 @@
 public class OrdemInversa {
+    
     public static void main(String[] args) throws Exception {
         
         int[] vetor = {-5, -6, 15, 50, 8, 4};
